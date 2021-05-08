@@ -1,5 +1,6 @@
 body
 {
+    background: rgb(172, 68, 68);
     color: #333;;
     text-align: center;
     font-family: "Arial";
@@ -9,12 +10,16 @@ body
 }
 #cabecera
 {
-    background: rgb(51, 142, 170);
+    background: url("../Imagenes/logo.png") center center;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
+}
+#cabecera #logo
+{
+    width: 2;
 }
 #cabeceratagline
 {
@@ -36,6 +41,6 @@ font-size: 0.8em;
 }
 #POST
 {
+    background: white;
     padding: 1em;
-
 }
