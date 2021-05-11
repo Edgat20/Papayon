@@ -2,6 +2,11 @@ Esta es la historia de Edgar Galindo
 
 Edgar tiene 21 años y nació en México,
 viviendo en fronterita
+Experimento 1
 
+<<<<<<< HEAD
 Master 2 
+=======
+Master 1
+>>>>>>> 54f3d81 (Expe 1)
 Mañana nos enfocaremos en su vida laboral
