@@ -14,3 +14,5 @@ Master 1
 
 
 Mañana nos enfocaremos en su vida laboral
+
+Ejemplo de git cherry-pick
